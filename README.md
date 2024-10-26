@@ -1,0 +1,2 @@
+# Updater
+ClassicCounter Updater Repository
