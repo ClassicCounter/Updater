@@ -5,4 +5,4 @@ This repo hosts an auto-updater for [Launcher](https://github.com/ClassicCounter
   
 *Maintained by [heapy](https://github.com/heapybruh)*  
   
-**You SHOULDN'T use updater.exe manually, it was made for [Launcher](https://github.com/ClassicCounter/Launcher).** :warning:
+:warning: **You SHOULDN'T use updater.exe manually, it was made for [Launcher](https://github.com/ClassicCounter/Launcher).**
