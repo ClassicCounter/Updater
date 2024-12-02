@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Company>ClassicCounter Team</Company>
+		<AssemblyName>updater</AssemblyName>
+		<RootNamespace>$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+		<Product>ClassicCounter Updater</Product>
+		<Authors>ClassicCounter Team</Authors>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Downloader" Version="3.2.1" />
+	</ItemGroup>
+
+</Project>
